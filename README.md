@@ -1,2 +1,29 @@
 # assignment-1
 I does assignment based on python
+
+1. Python programming developed by Guido van Rossum.
+2. Object Oriented Programming support Python language.
+3. Yes, Python Case sensitive when dealing with identifiers.
+4. (.py) is a correct extension of Python file.
+5. Python code is a interpreted because it compile line by line code.
+6. Define by Braces{},() and list[].
+7. With the help of hash symbol(#),we define a single line comment.
+8. import sys
+   print("Python version")
+   print(sys. version)
+
+   Python version
+   3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)]
+
+9. called lambda.
+10. pip stand for - Preferred installer program.
+
+11. print(),type(),sort(),max(),min(),input(),len(),dir(),ord(),get() and id() so on.
+12. 79 maximum length
+13. Easy to use, portable, High level lenguage, use in different place like web developers, Data science,computer, building a games.
+14. It involves a private heap containing all python objects and data structure.
+15. first we need to go python.org.
+    select a latest version of python and download.
+    And download a Jupyter Notebook and set up.
+    When you open then go cmd and write jupyter nootbookit will work.
+16.It provide space in code and indicate block of code.
